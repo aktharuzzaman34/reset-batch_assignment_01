@@ -18,6 +18,10 @@ body {
     border-radius: 5px;
 }
 
+.button-margin {
+    margin-top: 30px;
+}
+
 .banner {
     background-image: url(images/donation13.jpg);
     height: 500px;
@@ -79,10 +83,32 @@ body {
     background-color: rgb(115, 196, 196);
 }
 
+.align {
+    text-align: justify;
+}
+
 .shelter-color {
     background-color: rgb(145, 110, 179);
 }
 
 .education-color {
     background-color: rgb(196, 167, 130);
+}
+
+.contribute {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.depend-donation {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.depend-donation img {
+    width: 90%;
 }
