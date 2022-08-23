@@ -6,7 +6,11 @@ body {
 .helping-people {
     text-align: center;
     color: white;
-    padding-top: 100px;
+    padding-top: 90px;
+}
+
+.helping-people p {
+    margin: 0%;
 }
 
 .link-button {
@@ -23,8 +27,9 @@ body {
 }
 
 .banner {
-    background-image: url(images/donation13.jpg);
-    height: 500px;
+    background-image: url("images/donation13.jpg");
+    background-size: cover;
+    height: 400px;
 
 }
 
