@@ -56,7 +56,15 @@ body {
 .half-width {
     width: 5%;
     margin-top: 5%;
-    padding: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(226, 225, 225);
+}
+
+#box-color {
+    border: 4px solid rgb(118, 118, 226);
 }
 
 #box {
@@ -64,7 +72,7 @@ body {
     margin-right: 2%;
     padding: 30px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px 5px gray;
+
 }
 
 .box-color {
