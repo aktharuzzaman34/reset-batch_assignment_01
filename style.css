@@ -116,3 +116,16 @@ body {
 .updates {
     margin-bottom: 50px;
 }
+
+.input-tag {
+    height: 30px;
+    width: 250px;
+    margin-top: 60px;
+}
+
+.subscribe-color {
+    background-color: burlywood;
+    height: 150px;
+    width: 600px;
+    margin-left: 30%;
+}
