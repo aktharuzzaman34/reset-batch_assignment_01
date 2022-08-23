@@ -22,3 +22,24 @@ body {
     background-image: url(images/donation13.jpg);
     height: 500px;
 }
+
+.amount {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.donation-today p {
+    margin: 0%;
+}
+
+.donate-price {
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.half-width {
+    width: 10%;
+    margin-top: 5%;
+    padding: 10px;
+}
