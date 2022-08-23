@@ -29,6 +29,10 @@ body {
     margin-bottom: 80px;
 }
 
+.donation-today {
+    text-align: center;
+}
+
 .donation-today p {
     margin: 0%;
 }
@@ -55,4 +59,16 @@ body {
 
 .box-color {
     color: skyblue;
+}
+
+.flexible-container {
+    display: flex;
+    margin-left: 130px;
+    margin-right: 100px;
+}
+
+.planning-width {
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
 }
