@@ -58,17 +58,31 @@ body {
 }
 
 .box-color {
-    color: skyblue;
+    background-color: skyblue;
 }
 
 .flexible-container {
     display: flex;
     margin-left: 130px;
     margin-right: 100px;
+    margin-top: 30px;
 }
 
 .planning-width {
     width: 33%;
     margin: 10px;
     padding: 10px;
+    margin-bottom: 80px;
+}
+
+.food-color {
+    background-color: rgb(115, 196, 196);
+}
+
+.shelter-color {
+    background-color: rgb(145, 110, 179);
+}
+
+.education-color {
+    background-color: rgb(196, 167, 130);
 }
