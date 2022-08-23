@@ -1,3 +1,24 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.helping-people {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.banner {
+    background-image: url(images/donation13.jpg);
+    height: 500px;
 }
