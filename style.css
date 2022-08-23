@@ -50,11 +50,11 @@ body {
 .donate-price {
     display: flex;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 300px;
 }
 
 .half-width {
-    width: 10%;
+    width: 5%;
     margin-top: 5%;
     padding: 10px;
 }
